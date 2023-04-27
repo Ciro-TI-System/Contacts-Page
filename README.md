@@ -11,7 +11,7 @@ Desenvolvimento de uma página de contatos. <br/>
 <br>
 
 <p align="center">
-  <img src=".github/Contact Page.jpg" width="100%">
+  <img src=".github/Contact Page.jpg" width="50%">
 </p>
 
 <br>
