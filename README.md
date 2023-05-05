@@ -20,7 +20,9 @@ Desenvolvimento de uma página de contatos. <br/>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML
+- CSS
+- Javascript (`FilterElement`)
 - Ion Icons
 - Figma
 
